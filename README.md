@@ -8,15 +8,19 @@ Phishing tool
   
 After finding bugs and suggesting solutions to <a href="https://github.com/An0nUD4Y/blackeye">An0nUD4Y</a> he gave me permission to fix the tool and rewrite the entire thing from bash to python and implement some changes of my own.
 
-**Fixes:**
+**Fixes/Changes:**
 
-  1) Broken URL link to send victim
+  1) Broken URL link to send clients
   
-  2) Broken clone pages
+  2) New shortened url to send clients
   
-  3) Adding sessions to PHP (ip.php)
+  3) Added site name to the url to send clients
   
-  4) Server stays running until you shut it down (beware this is risky if left open long enough to trace back)
+  4) Adding sessions to PHP
+  
+  5) Broken clone pages
+  
+  6) Server stays running until you shut it down (beware this is risky if left open long enough to trace back)
   
   
   **Disclaimer**
